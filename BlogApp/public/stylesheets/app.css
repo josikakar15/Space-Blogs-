@@ -1,0 +1,19 @@
+i.icon{
+    font-size:2em;
+}
+
+.container.main{
+    margin:7.0em;
+}
+
+#delete{
+    display:inline;
+}
+
+body{
+    background:url("https://openclipart.org/image/2400px/svg_to_png/297399/StarryBackground3.png");
+    background-size:cover;
+}
+#space{
+    color:white;
+}
